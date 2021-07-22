@@ -1,2 +1,4 @@
 # hello-world
-my first repository
+
+STAY HUNGRY,STAY FOOLISH!!!
+GOGOGO
